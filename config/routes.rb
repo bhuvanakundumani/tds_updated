@@ -4,6 +4,7 @@ Tds::Application.routes.draw do
   get "pages/aboutus"
   get "pages/gallery"
   get "pages/contactus"
+  get "pages/scikids"
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

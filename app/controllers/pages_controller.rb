@@ -14,5 +14,8 @@ class PagesController < ApplicationController
   def contactus
   end
     
+  def scikids
+  end
+    
  
 end
